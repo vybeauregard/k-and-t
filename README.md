@@ -2,6 +2,8 @@
 
 ####A quick one-page wedding site.
 
+[see it in action](http://kylieandtrey.vybeauregard.net)
+
 Features:
 
 * Our Story
