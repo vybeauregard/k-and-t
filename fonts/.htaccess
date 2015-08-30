@@ -1,0 +1,3 @@
+<FilesMatch "\.(css|ico|pdf|jpg|jpeg|js|png|gif|html|htm|xml|txt|woff|xsl)$">
+Header set Cache-Control "max-age=31536050"
+</FilesMatch>
